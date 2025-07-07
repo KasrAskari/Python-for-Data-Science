@@ -12,7 +12,6 @@ This repository introduces the essential Python libraries used in data science, 
 - 📈 Data visualization using matplotlib and seaborn
 - 🧹 Data cleaning techniques
 - 🔍 Exploratory Data Analysis (EDA)
-- 💾 Real-world dataset examples
 
 
 ## 🛠️ Technologies Used
